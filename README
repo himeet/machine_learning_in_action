@@ -1,0 +1,6 @@
+实现《机器学习实践》书中的机器学习算法
+-k_nearest_neighbor k-近邻算法
+--k_nearest_neighbor/datasets 数据集
+--k_nearest_neighbor/knn_1_demo.ipynb 实现knn核心算法的demo
+--k_nearest_neighbor/knn_2_dating_web.ipynb 使用knn实现约会网站对象分类
+--k_nearest_neighbor/knn_3_digits_recognition.ipynb 使用knn实现手写数字识别
